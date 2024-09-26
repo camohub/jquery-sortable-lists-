@@ -21,6 +21,8 @@
   "files": [
     "jquery-sortable-lists.js",
     "jquery-sortable-lists.min.js",
+    "jquery-sortable-lists-mobile.js",
+    "jquery-sortable-lists-mobile.min.js",
     "LICENCE",
     "README.md",
     "imgs"
